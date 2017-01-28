@@ -1,0 +1,51 @@
+// FONTS
+@import url('https://fonts.googleapis.com/css?family=Arsenal|Fira+Sans+Condensed|Unica+One');
+.prof-links {
+    color: white;
+    img {
+        height: 32px;
+        width: 32px;
+        color: white;
+
+    }
+}
+
+//
+// font-family: 'Fira Sans Condensed', sans-serif;
+// font-family: 'Forum', cursive;
+// font-family: 'Unica One', cursive;
+// font-family: 'Barrio', cursive;
+
+
+h1, h2 {
+    font-family: 'Arsenal', sans-serif;
+
+    b {
+        font-family: 'Unica One', cursive;
+    }
+}
+
+h1.center {
+    font-family: 'Arsenal', sans-serif;
+    font-size: 2em!important;
+    color: #333!important;
+}
+
+#ch, #theater {
+
+    .title {
+        font-family: 'Unica One', cursive!important;
+    }
+
+}
+ul {
+    list-style-type: none!important;
+}
+#cv {
+    .cv-item {
+        list-style-type: none!important;
+        li {
+            font-family: 'Arsenal', sans-serif!important;
+        }
+    }
+}

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Arsenal|Fira+Sans+Condensed|Unica+One");
+.prof-links {
+  color: white; }
+  .prof-links img {
+    height: 32px;
+    width: 32px;
+    color: white; }
+
+h1, h2 {
+  font-family: 'Arsenal', sans-serif; }
+  h1 b, h2 b {
+    font-family: 'Unica One', cursive; }
+
+h1.center {
+  font-family: 'Arsenal', sans-serif;
+  font-size: 2em !important;
+  color: #333 !important; }
+
+#ch .title, #theater .title {
+  font-family: "Unica One", cursive !important; }
+
+ul {
+  list-style-type: none !important; }
+
+#cv .cv-item {
+  list-style-type: none !important; }
+  #cv .cv-item li {
+    font-family: "Arsenal", sans-serif !important; }
+
+/*# sourceMappingURL=main.css.map */
